@@ -32,12 +32,14 @@ Follow the simple on-screen menu to choose your conversion type.
 ### Roman → Integer
 
 Enter the Roman numerals you want to convert: XIV
+
 The Roman numerals you entered translates to: 14!
 
 
 ### Integer → Roman
 
 Enter the integer you want to convert (1–3999): 2025
+
 The integer you entered translates to: MMXXV!
 
 
